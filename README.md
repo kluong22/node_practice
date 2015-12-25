@@ -8,14 +8,18 @@ All the cool kids are using node.JS/MongoDB so I wanted to join the fun :)
 Currently have POST capabilities. 
 
 
-Goals:
+Goals
 
 Learn how to use GET requests to add stuff to DB
+
 Figure out a data analysis program
+
 Make the website look nice
 
 Possible ideas?
 
 Google large databases and play with them LOL
+
 Price vs Time graphs
-some current events thing? Maybe we can map it onto GoogleMaps so it looks cool
+
+some current events thing? Maybe I can use Google Maps so it looks cool

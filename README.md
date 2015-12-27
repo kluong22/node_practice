@@ -10,6 +10,8 @@ Currently have POST capabilities.
 
 Goals
 
+***Stop using Jade! I can/will code my own html/CSS
+
 Learn how to use GET requests to add stuff to DB
 
 Figure out a data analysis program
